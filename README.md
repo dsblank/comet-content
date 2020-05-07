@@ -1,4 +1,4 @@
-<img src="https://comet.ml/images/logo_comet_light.png" width="200" alt="Drawing" style="width: 200px;"/>
+<img src="https://www.comet.ml/images/logo_comet_light.png" width="200" alt="Drawing" style="width: 200px;"/>
 
 ## Welcome to the Comet.ml Tutorial Center! 
 This repository contains example datasets and models that help guide you through the experience of using Comet.ml towards reproducible and interesting machine learning experiments.
